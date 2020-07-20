@@ -12,7 +12,7 @@ Também apresentamos outras vantagens, como a possibilidade de vender sua mão d
 Para atrair cada vez mais clientes, contamos com a opção de compartilhar o aplicativo pelo WhatsApp e SMS, além de se cadastrar para receber novidades e promoções.
 Isso foi possível a partir do uso de APIs disponibilizadas pela Zenvia para envio de mensagem. É possível perceber a eficiência das mesmas pelo código contido em "Confirmação" (tela que confirma que seu pagamento foi efetuado).
 
-## Telas
+<img src="../.github/images/API.png">
 
 ## Vídeos
 
@@ -24,7 +24,11 @@ https://youtu.be/EO-H8uIcDes
 
 ## Equipe
 
+<img src="../.github/images/Time.png">
+
 ## Diagrama de Atividades
+
+<img src="../.github/images/DiagramaDeAtividades.jpg">
 
 ## Requisitos 
 
